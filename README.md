@@ -9,6 +9,10 @@ A curated repository of resources for [Linguistics](https://en.wikipedia.org/wik
   * [Typology](https://en.wikipedia.org/wiki/Linguistic_typology)
 * [Applied linguistics](https://en.wikipedia.org/wiki/Applied_linguistics)
   * [Second-language acquisition](./second-language-acquisition.md)
+* Theoretical frameworks
+  * [Formalist](https://en.wikipedia.org/wiki/Formalism_(linguistics))
+    * [Generative Grammar](https://en.wikipedia.org/wiki/Generative_grammar)
+  * [Functional](https://en.wikipedia.org/wiki/Functional_linguistics)
 
 ## YouTube Channels
 
