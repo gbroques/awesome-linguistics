@@ -17,3 +17,5 @@ A curated repository of resources for [Linguistics](https://en.wikipedia.org/wik
 * [Evan Ashworth](https://www.youtube.com/channel/UC4NHPS-ApMmYuguXTCZGWPw/featured)
 * [Fingtam Languages](https://www.youtube.com/c/FingtamLanguages/featured)
 * [TheTrevTutor](https://www.youtube.com/c/Trevtutor/featured)
+* [The Virtual Linguistics Campus](https://www.youtube.com/c/LinguisticsMarburg/featured)
+* [cognitivephonetician](https://www.youtube.com/user/cognitivephonetician/featured)
