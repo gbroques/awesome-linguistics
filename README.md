@@ -24,3 +24,4 @@ A curated repository of resources for [Linguistics](https://en.wikipedia.org/wik
 * [The Virtual Linguistics Campus](https://www.youtube.com/c/LinguisticsMarburg/featured)
 * [cognitivephonetician](https://www.youtube.com/user/cognitivephonetician/featured)
 * [The Ling Space](https://www.youtube.com/channel/UCdZcGRaBV-VRRyU4t6Ur0mw)
+* [Linguistics and English Language at the University of Edinburgh](https://www.youtube.com/user/edinburghLangScience/featured)
