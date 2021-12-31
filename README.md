@@ -14,6 +14,14 @@ A curated repository of resources for [Linguistics](https://en.wikipedia.org/wik
     * [Generative Grammar](https://en.wikipedia.org/wiki/Generative_grammar)
   * [Functional](https://en.wikipedia.org/wiki/Functional_linguistics)
 
+## Miscellaneous
+
+* [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
+  * [Eskimo words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
+  * [Verb framing](https://en.wikipedia.org/wiki/Verb_framing)
+  * [Does language guide event perception? Evidence from eye movements - Anna Papafragou, Justin Hulbert, and John Trueswell](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810627/)
+  * [Linguistic relativity - Daniel Casasanto](https://casasanto.com/papers/Casasanto_Linguistic_Relativity_Routledge_2016.pdf)
+
 ## YouTube Channels
 
 * [Aze Linguistics](https://www.youtube.com/c/AzeLinguistics/featured)
