@@ -1,5 +1,10 @@
 # [Phonology](https://en.wikipedia.org/wiki/Phonology)
 
+## Articles
+
+* [Connected speech](https://en.wikipedia.org/wiki/Connected_speech)
+  * [Assimilation](https://en.wikipedia.org/wiki/Assimilation_(phonology))
+
 ## Websites
 
 * [Interactive IPA Chart](https://www.ipachart.com/)
