@@ -2,6 +2,9 @@
 
 ## Anki
 
+* [Fluent Forever Anki tutorials](https://www.youtube.com/playlist?list=PL6iffsHU8hUkLHWIm-OmNc4uUwuiFlFq-)
+  * [Fluent Forever Book: The Gallery](https://blog.fluent-forever.com/gallery/)
+
 ### [Custom Anki card types for language learning](https://www.youtube.com/watch?v=_etuizTN9xU)
 
 Language specific card templates for different types of words.
