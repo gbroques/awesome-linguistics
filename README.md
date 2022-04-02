@@ -22,6 +22,7 @@ A curated repository of resources for [Linguistics](https://en.wikipedia.org/wik
   * [Does language guide event perception? Evidence from eye movements - Anna Papafragou, Justin Hulbert, and John Trueswell](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810627/)
   * [Linguistic relativity - Daniel Casasanto](https://casasanto.com/papers/Casasanto_Linguistic_Relativity_Routledge_2016.pdf)
 * [Grammatical aspect](https://en.wikipedia.org/wiki/Grammatical_aspect) - expresses how an action, event, or state, denoted by a verb, extends over time.
+* [Dual (grammatical number)](https://en.wikipedia.org/wiki/Dual_(grammatical_number))
 
 ## YouTube Channels
 
