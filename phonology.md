@@ -4,6 +4,8 @@
 
 * [Connected speech](https://en.wikipedia.org/wiki/Connected_speech)
   * [Assimilation](https://en.wikipedia.org/wiki/Assimilation_(phonology))
+* [Vowel hiatus](https://en.wikipedia.org/wiki/Vowel_hiatus)
+* [Apophony](https://en.wikipedia.org/wiki/Apophony)
 
 ## Websites
 
